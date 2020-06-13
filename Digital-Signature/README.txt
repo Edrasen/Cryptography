@@ -1,9 +1,8 @@
 To execute it's necessary generate a pair of public and private keys.
+
 ----- TO GENERATE PAIR KEYS -----
 All needed files are in key-gen folder
-
 --> python3 RSA.py 
-
 --> It generates "myPubkey.txt" and "myPrivkey.txt" files
 
 
